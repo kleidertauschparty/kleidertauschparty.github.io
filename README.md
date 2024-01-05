@@ -7,3 +7,4 @@ Wir haben sie mit HTML/CSS erstellt, und dafür [TailwindCSS](https://tailwindcs
 Die Icons sind teilweise selber erstellt, das Logo wurde mit Procreate designed.
 
 Die Schriftarten sind von [Google Fonts](https://fonts.google.com/).
+Die Icons sind von [Flaticon](https://www.flaticon.com)
